@@ -1,0 +1,8 @@
+[Flask]
+host = 0.0.0.0
+port = 5546
+index = /path/to/index/here
+anserini_jar = /path/to/anserini/jar/here
+
+[Frontend]
+witai_api_secret = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
